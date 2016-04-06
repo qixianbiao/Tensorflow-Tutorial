@@ -25,7 +25,8 @@ Keras
 TFLearn
 skflow
 
-I may further update this tutorial in future, keep attention. 
+If you find this tutorial useful, star and fork it, Thanks.
+I may further update this tutorial in future, keep focus. 
 
 
 
