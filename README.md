@@ -6,11 +6,12 @@ https://github.com/pkmital/tensorflow_tutorials
 https://github.com/nlintz/TensorFlow-Tutorials
 
 https://github.com/aymericdamien/TensorFlow-Examples
-In my mind, tutorial is used to introduce basic usage, it may not work well as results reported in the papers. So 
+
+In my mind, tutorial is used to introduce basic usage, it may not work well as results reported in the papers. 
 
 
-Since this code is for teaching, I try to make it easily understandable instead pursuing a good writing style. 
-Thus, the writing style is not optimal. 
+Since this code is for teaching, I try to make it easily understandable instead of pursuing a good writing style. 
+Thus, the programming style is not optimal. 
 I would suggest you find one of your own programming style and stick on it.
 I found two codes in Github useful, you may refer to their style. 
 https://github.com/bgshih/tf_resnet_cifar
