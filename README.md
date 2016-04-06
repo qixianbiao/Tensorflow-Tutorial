@@ -7,12 +7,11 @@ https://github.com/nlintz/TensorFlow-Tutorials
 
 https://github.com/aymericdamien/TensorFlow-Examples
 
-In my mind, tutorial is used to introduce basic usage, it may not work well as results reported in the papers. 
 
 
 Since this code is for teaching, I try to make it easily understandable instead of pursuing a good writing style. 
 Thus, the programming style is not optimal. 
-I would suggest you find one of your own programming style and stick on it.
+I would suggest you to find one of your own programming style and stick on it.
 I found two codes in Github useful, you may refer to their style. 
 
 https://github.com/bgshih/tf_resnet_cifar
@@ -24,7 +23,7 @@ Besides of Tensorflow, there are also some wrapped toolboxs based on TF, you may
 Wrapped toolboxs includes：
 Keras
 TFLearn
-TFFlows
+skflow
 
 I may further update this tutorial in future, keep attention. 
 
