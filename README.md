@@ -14,6 +14,7 @@ Since this code is for teaching, I try to make it easily understandable instead 
 Thus, the programming style is not optimal. 
 I would suggest you find one of your own programming style and stick on it.
 I found two codes in Github useful, you may refer to their style. 
+
 https://github.com/bgshih/tf_resnet_cifar
 
 https://github.com/ry/tensorflow-vgg16
