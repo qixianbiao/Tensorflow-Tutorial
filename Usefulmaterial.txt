@@ -1,0 +1,48 @@
+LSTM for time-series (sequence) problem:
+Recurrent Neural Networks Tutorial
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
+Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+The Unreasonable Effectiveness of Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+LSTM (Long Short Term Memory)
+http://christianherta.de/lehre/dataScience/machineLearning/neuralNetworks/LSTM.php
+
+Simple LSTM
+http://nicodjimenez.github.io/2014/08/08/lstm.html
+
+
+
+
+
+Books about deep learning:
+Neural Networks and Deep Learning:
+http://neuralnetworksanddeeplearning.com/
+
+Deep Learning:
+http://www.deeplearningbook.org/
+
+
+
+
+Course with videos:
+CS231n: Convolutional Neural Networks for Visual Recognition
+http://cs231n.stanford.edu/
+
+Machine Learning: 2014-2015 (Deep Learning)
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
+
+
+
+
+
+Convolutional Neural Network (CNN):
+Visualizing CNN architectures side by side with mxnet
+http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/
+
+Residual Networks <2015 ICCV, ImageNet 图像分类Top1>
+http://blog.csdn.net/abcjennifer/article/details/50514124
